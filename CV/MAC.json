@@ -1,0 +1,390 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego Antonio",
+      "surnames": "Peroza Pérez",
+      "title": "Frontend Developer | UX Designer | Digital Marketing Specialist | Aplicaciones Multiplataforma",
+      "description": "Soy un apasionado desarrollador con más de 4 años de experiencia, comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.\n\nMi viaje en el mundo de la programación comenzó en 2016 durante mis estudios universitarios, marcando el inicio de mi búsqueda para crecer como profesional en la industria del desarrollo de software.\n\nDominio de los siguientes lenguajes:\n· HTML5 · PHP · CSS · TAILWIND · JAVA · JavaScript\n\n· React · Laravel · AngularJS · Vue.js · Symfony\n\nControl de versiones:\n· Git · GitHub · GitLab · Bitbucket · Jenkins\n\nConocimientos en Servicios Clouds:\n· AWS · Kubernetes · Azure · EC2 · Lambda · CloudFront\n\nGestión de bases de datos (DBMS)\n· SQL · NoSQL\n\nTexting\n· Playwright · React - Testing Library · Cypress\n\nManejo de APIs y API REST ✓✓\n· Diseño de API, consumo de API, desarrollo de servicios web RESTful, gestión de solicitudes HTTP,\nintegración de API de terceros, entre otras.\n\nConocimientos extras:\n· (SEO/SEM) · Google Analytics · Google Ads · Google Search Console · Google Tag Manager\n· Ecommerce · CRM · Prestashop · Wordpress · Desarrollador de Plugins · Accesibilidad web\nperformace\n\nMetodología SCRUM · TDD (Test Driven Development)\n\nAlta disposición de aprendizaje y entusiasta de las nuevas tecnologías.\nSiempre estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como profesional. ¡Vamos a construir juntos el futuro del desarrollo de software! 🚀",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/18/bb9c916f-f7ff-4945-bc8b-2d303a558da7_linkedin-photo-54336.linkedin-photo-54336",
+        "alt": "24/02/18/bb9c916f-f7ff-4945-bc8b-2d303a558da7_linkedin-photo-54336.linkedin-photo-54336"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5wBeIBQVYA0RsTomO-VdQO4)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Sagunto"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/diegoperozadev"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Azorep"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Grupo Samalic - Regalos Personalizados",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/18/bc4a0bd9-211c-42c7-b64f-8720303404fc_linkedin-photo-54336.linkedin-photo-54336",
+            "alt": "24/02/18/bc4a0bd9-211c-42c7-b64f-8720303404fc_linkedin-photo-54336.linkedin-photo-54336"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer & Digital Marketing Specialist",
+            "startDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Project of Grupo Samalic S.L\n- System Optimization at all levels.\n- Automated synchronization of invetaries.\n- API Synchronization with the main providers. (Json, PHP, Framework Codeigniter 3).\n- Frontend Development (HTML, XML, CSS, Boostrap, JavaScript, M.V.C)\n- MySQL Database, Phpmyadmin, Backups.\n- Server Management, Plesk, Filezilla FTP Protocols, SFTP.\n- Graphic Design ( Photoshop, CorelDraW)\n- SEO Administration (Marketing, Social Media, Google Analytics, Google Search Console, Google Tag Manager, Google Trends, Google Ads)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Mi pagina web de resumen",
+          "description": "template está diseñado principalmente con HTML y CSS para la estructura y el estilo de la página web. Además, se ha integrado un pequeño fragmento de JavaScript para proporcionar interactividad limitada. HTML se utiliza para definir la estructura del contenido, como encabezados, párrafos y elementos de formulario, mientras que CSS se encarga de los aspectos visuales, como colores, fuentes y diseños de diseño. Totalmente adaptado para versiones móviles ",
+          "URL": "https://github.com/Azorep/template-resumen",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/18/dcaec114-adc9-4f76-b154-4c1466d30c2c_captura-desde-2024-0.png",
+            "alt": "Captura desde 2024-02-18 20-46-20.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Tag Manager",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/diegoperozadev",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Azorep",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "diego.peroza.dev@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bitbucket",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Semrush",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Chef",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Lo que realmente me motiva en mi trabajo como desarrollador de full stack es el desafío constante y la oportunidad de crear algo significativo. Me emociona la idea de enfrentarme a problemas complejos y encontrar soluciones innovadoras que mejoren la experiencia del usuario o hagan más eficiente el funcionamiento de un sitio web.  En cuanto al entorno de trabajo, valoro mucho la colaboración y el compañerismo. Disfruto trabajando en equipos donde cada miembro aporta sus habilidades únicas y todos trabajamos juntos para alcanzar un objetivo común. La posibilidad de aprender de mis colegas y compartir conocimientos es algo que realmente aprecio.\n\n## ¿Cómo sería un día de trabajo ideal?\n\nUn día de trabajo ideal para mí sería aquel en el que puedo sumergirme en el desarrollo de nuevas funcionalidades o resolver problemas técnicos interesantes. Me gusta tener cierta autonomía para organizar mi trabajo y poder concentrarme en lo que más me apasiona. También valoro tener tiempo para colaborar con mis compañeros, ya sea para resolver problemas difíciles o para diseñar nuevas características.\n\nEn cuanto a mi rol dentro del equipo, me veo como un punto medio entre ser un \"individual contributor\" y ser responsable de personas. Disfruto mucho contribuyendo con mi trabajo al desarrollo del producto, pero también me motiva la idea de liderar proyectos o equipos pequeños. Me gusta la idea de poder influir en la dirección del proyecto y ayudar a guiar a otros miembros del equipo hacia el éxito. \n\nAlta disposición de aprendizaje y entusiasta de las nuevas tecnologías. \n\nSiempre estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como profesional. ¡Vamos a construir juntos el futuro del desarrollo de software! 🚀",
+    "projects": [
+      {
+        "name": "Mi pagina web de resumen"
+      }
+    ]
+  }
+}
